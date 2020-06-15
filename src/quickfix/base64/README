@@ -1,0 +1,10 @@
+This code was borred from the internet and I fail to see any license to fulfill.
+
+I can't really place the concrete author of this, but the closest thing is this post:
+http://www.cplusplus.com/forum/beginner/51572/
+
+Thanks to the publisher!
+
+Modifications made by me:
+- Added pragma once and remove the old style protection for the header file
+- Formatted both files with google clang-format
